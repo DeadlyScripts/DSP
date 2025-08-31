@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Install Deadly Scripts Profile</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #0f172a;
+      color: #f8fafc;
+      margin: 0;
+      padding: 50px;
+    }
+    h1 {
+      font-size: 2em;
+      margin-bottom: 20px;
+    }
+    a {
+      display: inline-block;
+      padding: 15px 25px;
+      background: #3b82f6;
+      color: white;
+      font-size: 1.2em;
+      text-decoration: none;
+      border-radius: 10px;
+      transition: background 0.3s ease;
+    }
+    a:hover {
+      background: #2563eb;
+    }
+  </style>
+</head>
+<body>
+  <h1>📲 Deadly Scripts Config</h1>
+  <p>Tap the button below to install the configuration profile on your iPad/iPhone:</p>
+  <a href="DeadlyScriptsOffical.mobileconfig">👉 Install Profile 👈</a>
+  <p style="margin-top:20px; font-size:0.9em; color:#94a3b8;">
+    After tapping, go to <b>Settings → Profile Downloaded</b> to finish installation.
+  </p>
+</body>
+</html>
